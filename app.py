@@ -3,7 +3,7 @@ import google.generativeai as genai
 import time
 
 # Configure Gemini 
-genai.configure(api_key='AIzaSyBFIWQgcwoI6OeNw7du1DC-DAJzIiHEiIk')  # 🔒 Replace with your actual key
+genai.configure(api_key='API_KEY')  # 🔒 Replace with your actual key
 
 # Model selection dropdown
 MODEL_OPTIONS = {
