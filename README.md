@@ -1,7 +1,5 @@
 # Text Completion Generator with Gemini AI
 
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app/)
-
 A Streamlit web application for text completion using Google's Gemini AI models.
 
 ## Features
